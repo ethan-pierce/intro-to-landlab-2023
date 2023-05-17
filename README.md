@@ -53,7 +53,7 @@ Once you have the source code, install the necessary dependencies to run the
 notebooks into your current environment (either *pip* or *conda*/*mamba* should work),
 
     cd intro-to-landlab-2023
-    conda create --name intro-to-landlab --file requirements.txt
+    conda create --name intro-to-landlab --file ./requirements.txt
 
 [anaconda-download]: https://www.anaconda.com/download
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-green
