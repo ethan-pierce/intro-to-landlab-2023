@@ -58,6 +58,6 @@ notebooks into your current environment (either *pip* or *conda*/*mamba* should 
 [anaconda-download]: https://www.anaconda.com/download
 [badge]: https://img.shields.io/badge/Run%20on-EarthscapeHub-green
 [jhub-info]: https://csdms.colorado.edu/wiki/JupyterHub
-[jhub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fethan-pierce%2Fintro-to-landlab-2023&urlpath=tree%2Fintro-to-landlab-2023%2F&branch=main
+[jhub-link]: https://lab.openearthscape.org/hub/user-redirect/git-pull?repo=https%3A%2F%2Fgithub.com%2Fethan-pierce%2Fintro-to-landlab-2023&urlpath=lab%2Ftree%2Fintro-to-landlab-2023%2F%3Fautodecode&branch=main
 [landlab-dev]: https://github.com/landlab/landlab/
 [landlab-docs]: https://landlab.readthedocs.io/
